@@ -1,5 +1,5 @@
 import java.util.*;
-class devika
+class fazal
 {
     public static void main(String args[])
     {
