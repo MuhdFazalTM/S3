@@ -40,7 +40,7 @@ class matrixmultiply
 	{
 		for(j=0;j<n;j++)
 		{
-		 System.out.println("the product is:"+c[i][j]);
+		 System.out.println(" "+c[i][j]);
 		}
 	}
 	S.close();
