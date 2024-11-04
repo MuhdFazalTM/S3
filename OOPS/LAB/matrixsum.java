@@ -32,7 +32,7 @@ class matrixsum
 	{
 		for(j=0;j<n;j++)
 		{
-		  c[i][j]=a[i][j]+b[i][j];
+		  c[i][j]=a[i][j]*b[i][j];
 		}
 	}	
 
